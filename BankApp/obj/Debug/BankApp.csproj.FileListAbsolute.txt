@@ -1,0 +1,8 @@
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\bin\Debug\BankApp.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\bin\Debug\BankApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\bin\Debug\BankApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.BankUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.pdb
